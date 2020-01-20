@@ -6,7 +6,7 @@ There is a corresponding [blog post](https://lvngd.com/blog/generating-and-solvi
 python run.py
 ```
 
-This will generate similar visualizations to the ones found in the blog post, and they can be found in the `animations` directory. The maze is randomly generated, which is why it won't look exactly the same.
+This will generate similar visualizations to the ones found in the blog post, and they can be found in the `animations` directory as .mp4 files. The maze is randomly generated, which is why it won't look exactly the same.
 
 I think this will be an ongoing project because I want to visualize some other mazes as well, and add more algorithms to solve them with.
 
